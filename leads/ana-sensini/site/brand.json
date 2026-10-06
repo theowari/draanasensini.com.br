@@ -1,0 +1,137 @@
+{
+  "template": "clinica-odonto",
+
+  "business": {
+    "name": "Dra. Ana Sensini",
+    "whatsapp": "5519997668730",
+    "whatsapp_label": "(19) 99766-8730",
+    "email": "[PREENCHER: e-mail de contato]",
+    "street": "R. Cel. Ernesto de Oliveira, 116",
+    "neighborhood": "Centro",
+    "city": "São João da Boa Vista",
+    "uf": "SP",
+    "zip": "13870-249",
+    "map_query": "R. Cel. Ernesto de Oliveira, 116 - Centro, São João da Boa Vista - SP, 13870-249",
+    "map_zoom": 16,
+    "technical_responsible": "Responsável técnica: Dra. Ana Sensini [PREENCHER: nome completo como no CRO], CRO-SP 57666 · EPAO 034180"
+  },
+
+  "colors": {
+    "primary": "#536661",
+    "accent": "#f4d9c6",
+    "background": "",
+    "text": ""
+  },
+
+  "fonts": { "display": "Poppins", "display_fallback": "sans", "display_weights": "600", "body": "Nunito Sans" },
+
+  "logo": { "type": "image", "file": "assets/logo-branco.png", "on_block": "none", "show_name": false, "height": 48 },
+
+  "favicon": { "file": "assets/logo.png" },
+
+  "meta": {
+    "title": "{name} | Odontologia e Harmonização Facial em {city}",
+    "description": "Consultório da Dra. Ana Sensini no Centro de {city}: lentes de contato dental, clareamento, restaurações, próteses e harmonização facial."
+  },
+
+  "cta_label": "Agendar avaliação",
+
+  "hero": {
+    "eyebrow": "Odontologia e harmonização facial em {city}",
+    "title": "Cuidar do seu sorriso",
+    "title_highlight": "e da sua autoestima.",
+    "lead": "Há mais de 30 anos transformando sorrisos, com odontologia e harmonização facial no mesmo consultório.",
+    "secondary_cta": "Ver tratamentos",
+    "image": {
+      "src": "https://images.unsplash.com/photo-1777331903190-341a3dd0441b?auto=format&fit=crop&w=1100&q=75",
+      "alt": "[HUMANO: foto real da Dra. Ana Sensini atendendo no consultório]"
+    }
+  },
+
+  "diffs": {
+    "title": "Por que cuidar do sorriso com a {name}?",
+    "items": [
+      { "icon": "hand-heart", "title": "Mais de 30 anos", "text": "Três décadas transformando sorrisos." },
+      { "icon": "tooth", "title": "Sorriso e rosto", "text": "Odontologia e harmonização com a mesma profissional." },
+      { "icon": "heart", "title": "Saúde e autoestima", "text": "A missão é cuidar de você por inteiro." },
+      { "icon": "chats-circle", "title": "Conversa direta", "text": "Dúvidas e horários resolvidos pelo WhatsApp." },
+      { "icon": "map-pin", "title": "No Centro de {city}", "text": "Consultório na {street}." }
+    ]
+  },
+
+  "treatments": {
+    "title": "Do sorriso à harmonia do rosto",
+    "lead": "Cada tratamento começa por uma avaliação do seu caso, com indicação feita pela própria Dra. Ana.",
+    "items": [
+      { "title": "Lentes de contato dental", "text": "Lâminas finas que ajustam cor, forma e tamanho dos dentes.",
+        "wa_topic": "Lentes de contato dental", "reason": "Lentes de contato dental",
+        "image": { "src": "https://images.unsplash.com/photo-1663755489920-5e09f66d011a?auto=format&fit=crop&w=1100&q=75", "alt": "[HUMANO: foto real de um sorriso com lentes feito pela Dra. Ana, com autorização]" } },
+      { "title": "Harmonização facial", "text": "Toxina botulínica, preenchimento e bioestimulador, planejados para os traços do seu rosto.",
+        "wa_topic": "Harmonização facial", "reason": "Harmonização facial",
+        "image": { "src": "https://images.unsplash.com/photo-1617812191081-2a24e3f30e45?auto=format&fit=crop&w=900&q=75", "alt": "Mulher sorrindo com as mãos no rosto" } },
+      { "title": "Clareamento dental", "text": "Para quem se incomoda com dentes amarelados.",
+        "wa_topic": "Clareamento dental", "reason": "Clareamento dental",
+        "image": { "src": "https://images.unsplash.com/photo-1677026010083-78ec7f1b84ed?auto=format&fit=crop&w=700&q=75", "alt": "Close de sorriso com dentes claros e alinhados" } },
+      { "title": "Protocolo de melasma", "text": "Protocolo da Dra. Ana Sensini para as manchas, com fase de tratamento e de manutenção.", "icon": "drop",
+        "wa_topic": "Protocolo de melasma", "reason": "Protocolo de melasma" },
+      { "title": "Restaurações", "text": "Recuperam a forma e a função de dentes desgastados ou cariados.", "icon": "tooth", "reason": "Restaurações" },
+      { "title": "Próteses", "text": "Devolvem a função de mastigar, falar e sorrir.", "icon": "shield-check", "reason": "Próteses" },
+      { "title": "Fios de PDO e ultrassom microfocado", "text": "Procedimentos de harmonização indicados após avaliação do rosto.", "icon": "sparkle",
+        "wa_topic": "Fios de PDO e ultrassom microfocado", "reason": "Fios de PDO / ultrassom microfocado" }
+    ]
+  },
+
+  "tech": { "enabled": false },
+
+  "human": {
+    "title": "Mais de 30 anos",
+    "title_highlight": "cuidando de pessoas.",
+    "text": "A missão da {name} é cuidar de você devolvendo saúde e autoestima. [HUMANO: história real da Dra. Ana em 2-3 frases: formação, início na odontologia, por que trouxe a harmonização]",
+    "images": [
+      { "src": "https://images.unsplash.com/photo-1606811842243-af7e16970c1f?auto=format&fit=crop&w=1000&q=75", "alt": "[HUMANO: retrato real da Dra. Ana Sensini]" },
+      { "src": "https://images.unsplash.com/photo-1704455306251-b4634215d98f?auto=format&fit=crop&w=700&q=75", "alt": "Consultório claro e moderno" },
+      { "src": "https://images.unsplash.com/photo-1609207825181-52d3214556dd?auto=format&fit=crop&w=800&q=75", "alt": "Sala de atendimento com luz natural" }
+    ]
+  },
+
+  "journey": {
+    "title": "Do primeiro contato ao sorriso novo",
+    "lead": "Você sabe o que acontece em cada etapa.",
+    "steps": [
+      { "icon": "whatsapp-logo", "title": "Chame no WhatsApp", "text": "Fale pelo {whatsapp_label} e combine o melhor horário." },
+      { "icon": "tooth", "title": "Avaliação", "text": "A Dra. Ana avalia seu caso e explica as opções de tratamento." },
+      { "icon": "handshake", "title": "Acompanhamento", "text": "Atenção em cada etapa, do planejamento à manutenção." }
+    ]
+  },
+
+  "booking": {
+    "enabled": true,
+    "title": "Agende do seu jeito",
+    "lead": "Escolha um horário na agenda online ou envie sua solicitação por e-mail. O WhatsApp continua à disposição.",
+    "slot_hint": "Consulta de avaliação com a Dra. Ana Sensini.",
+    "event_title": "Consulta de avaliação",
+    "event_details": "Avaliação com a Dra. Ana Sensini (odontologia ou harmonização facial).",
+    "weekday_hours": [8, 9, 10, 11, 14, 15, 16, 17],
+    "saturday_hours": []
+  },
+
+  "results": { "enabled": false },
+
+  "faq": {
+    "eyebrow": "Dúvidas frequentes",
+    "title": "Antes de agendar",
+    "lead": "Não encontrou sua pergunta? Chame no WhatsApp.",
+    "items": [
+      { "q": "Como faço para agendar?", "a": "Pelo WhatsApp {whatsapp_label}. Todo atendimento é feito com hora marcada." },
+      { "q": "A Dra. Ana faz harmonização facial?", "a": "Sim. Além da odontologia, a Dra. Ana atende com toxina botulínica, preenchimento, bioestimulador, fios de PDO e ultrassom microfocado. A indicação é definida na avaliação." },
+      { "q": "O que são lentes de contato dental?", "a": "São lâminas finas aplicadas na frente dos dentes para ajustar cor, forma e tamanho. Se elas são indicadas para você, a Dra. Ana confirma na avaliação." },
+      { "q": "Como funciona o Protocolo de melasma?", "a": "É o protocolo da Dra. Ana Sensini para o cuidado das manchas, com uma fase de tratamento e uma fase de manutenção. [PREENCHER: como funciona o protocolo, em 1-2 frases]" },
+      { "q": "Onde fica o consultório?", "a": "{address}." }
+    ]
+  },
+
+  "contact": {
+    "title": "Vamos cuidar do seu sorriso?",
+    "lead": "Fale com a {name} pelo WhatsApp e agende sua avaliação no consultório, no Centro de {city}."
+  }
+}

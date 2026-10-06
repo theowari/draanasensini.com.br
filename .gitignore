@@ -1,0 +1,16 @@
+# skill prospectar: capturas e prints são grandes e regeneráveis
+leads/*/captura/
+leads/*/site/screens/
+# prints do Instagram da cliente: só referência, não versionar
+leads/*/referencias/*
+!leads/*/referencias/LEIA-ME.md
+
+# Python
+__pycache__/
+*.pyc
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.claude/settings.local.json
